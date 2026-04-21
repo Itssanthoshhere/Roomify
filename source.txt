@@ -2,4 +2,6 @@ npm create vite@latest .
 
 npm install lucide-react
 
+npm install @heyputer/puter.js
+
 npm run dev
