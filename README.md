@@ -297,8 +297,8 @@ Deploy to:
 
 ### Live Demo
 
-- [https://puter.com/app/roomify-or-ai-architectural-visualization](https://puter.com/app/roomify-or-ai-architectural-visualization)
-- [https://roomify-ai-architectural-visualization.vercel.app/](https://roomify-ai-architectural-visualization.vercel.app/)
+- [🌐 Puter App → https://puter.com/app/roomify-or-ai-architectural-visualization](https://puter.com/app/roomify-or-ai-architectural-visualization)
+- [🚀 Vercel Deployment → https://roomify-ai-architectural-visualization.vercel.app/](https://roomify-ai-architectural-visualization.vercel.app/)
 
 ---
 
