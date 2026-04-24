@@ -4,4 +4,6 @@ npm install lucide-react
 
 npm install @heyputer/puter.js
 
+npm i react-compare-slider
+
 npm run dev
